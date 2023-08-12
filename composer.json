@@ -3,8 +3,7 @@
 	"type": "project",
 	"license": "MIT",
 	"require": {
-		"ext-pthreads": "*",
-		"pocketmine/pocketmine-mp": "^4.0.0",
+		"pocketmine/pocketmine-mp": "^5.0.0",
 		"sof3/await-generator": "^3.4.2"
 	},
 	"require-dev": {
